@@ -1,0 +1,15 @@
+.nav {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end; }
+
+.nav a {
+  text-decoration: none;
+  padding: 10px;
+  padding-top: 12px;
+  font-size: 30px;
+  white-space: nowrap; }
+
+.line {
+  width: 100%;
+  border-bottom: 1px solid black; }
